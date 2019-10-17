@@ -1,2 +1,2 @@
 # Mobile Controlled Robot
-This project focuses on interfacing DTMF module with 8051.
+This project focuses on interfacing 8051 with DTMF module.
